@@ -1,3 +1,7 @@
+The goal of this challenge is to clean up the code and make it accessible.
+
+
+
 User Story
 
 AS A marketing agency
