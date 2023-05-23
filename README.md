@@ -1,24 +1,27 @@
-The goal of this challenge is to clean up the code and make it accessible.
+UC Berkeley Week 1 Challenge
 
+# Code Cleanup Challenge for Marketing Agency
 
+This project aims to improve the codebase of a website belonging to a marketing agency to ensure it meets accessibility standards. It aims to optimize the site for search engines, resulting in more organic traffic and a higher ranking in search results.
 
-User Story
+## User Story
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+As a marketing agency, we want our codebase to follow accessibility standards. This ensures that our site is optimized for search engines, improving our visibility and accessibility.
 
+## Acceptance Criteria
 
-Acceptance Criteria
+The project is successful when the following criteria are met:
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+- **Semantic HTML elements:** The source code of the webpage includes semantic HTML elements, which makes the site more understandable and accessible.
+- **Logical structure:** The structure of the HTML elements follows a logical pattern, independent of styling and positioning. This logical structure helps screen reader users understand the content and navigation of the page.
+- **Accessible alt attributes:** All image elements on the webpage have appropriate alt attributes. These alt descriptions are critical for visually impaired users who use screen readers to understand the content of images on the page.
+- **Sequential heading order:** The heading elements on the webpage fall in a sequential order. A well-structured document with properly ordered headings helps users navigate the page content, particularly those using screen readers.
+- **Descriptive title:** The title element of the webpage is concise and descriptive. This aids users in understanding the content of the page before they visit it, and helps with SEO and bookmarking.
+
+## Installation and Usage
+
+(Here you would typically put instructions for how to use your project, if it's a tool or piece of software. If it's not applicable, you can remove this section)
+
+## Contributing
+
+(If you're open to contributions, provide instructions on how to do so. If not, you can remove this section)
